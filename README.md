@@ -186,6 +186,16 @@ All results are exported automatically.
 
 ---
 
+## Abort or Exit anytime
+
+You can abort or exit the program anytime
+
+* It is important to click "Exit" in order to terminate and kill the program and analysis
+
+![Report](Screenshots/abort-exit-page.png)
+
+---
+
 # Running BulkOSINT
 
 ```bash
