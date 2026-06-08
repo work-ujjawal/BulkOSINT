@@ -204,7 +204,7 @@ http://127.0.0.1:5000
 
 ---
 
-# Input Format
+## Input Format
 
 CSV must contain a column named:
 
@@ -226,19 +226,11 @@ https://example.com/login
 
 ---
 
-# Example Enrichment
-
-### Input
-
-```csv
-entry
-8.8.8.8
-google.com
-```
+## Example Enrichment
 
 ---
 
-### IOC Detection
+## IOC Detection
 
 | IOC        | Type   |
 | ---------- | ------ |
@@ -247,7 +239,7 @@ google.com
 
 ---
 
-# Example Output
+## Example Output
 
 | Entry      | Type   | VT_Malicious | AbuseIPDB_Score | Country |
 | ---------- | ------ | ------------ | --------------- | ------- |
@@ -256,7 +248,7 @@ google.com
 
 ---
 
-# Generated Report Structure
+## Generated Report Structure
 
 ```text
 IOC_Enrichment_Report_20260506_143500.xlsx
