@@ -191,7 +191,6 @@ All results are exported automatically.
 You can abort or exit the program anytime
 
 * It is important to click "Exit" to terminate and kill the program and analysis
-* Just closing the browser tab does not terminate the program
 * $${\color{red}Just\ closing\ the\ browser\ tab\ does\ not\ terminate\ the\ program}$$
 
 ![Report](Screenshots/abort-exit-page.png)
