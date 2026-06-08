@@ -226,10 +226,6 @@ https://example.com/login
 
 ---
 
-## Example Enrichment
-
----
-
 ## IOC Detection
 
 | IOC        | Type   |
@@ -252,18 +248,6 @@ https://example.com/login
 
 ```text
 IOC_Enrichment_Report_20260506_143500.xlsx
-```
-
-Contains:
-
-```text
-ALL_IOCs
-IP
-Domain
-URL
-MD5
-SHA-1
-SHA-256
 ```
 
 ---
